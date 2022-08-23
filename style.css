@@ -1,0 +1,93 @@
+body{
+    
+    font-family: 'Poppins', sans-serif;
+    padding: 0px;
+  
+    
+
+}
+header{
+    background-color: black;
+    height: 400px;
+    color: white;
+    
+
+}
+
+#title{
+    color:#ff4400d8;
+    padding-top: 120px;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+#cover-pic{
+    margin-top: 116px;
+    height: 75%;
+    width: 100%;
+}
+
+#logo-cover{
+    height: 80%;
+    width: 60%;
+
+
+}
+
+#foot-img{
+     height: 25%;
+    width: 35%;
+    margin-top: 130px;
+    margin-left: 190px;
+    
+    
+}
+
+#second-section{
+    height: 1500px;
+    background-color: rgb(27, 27, 27);
+}
+
+.img-fit{
+    height: 60%;
+}
+
+.back-c{
+    background-color: black;
+    color:white;
+}
+
+.f-type{
+    color: rgb(209, 208, 207);
+}
+
+.c-btn{
+    margin-top: 20px;
+    margin-left: 5px;
+   
+}
+
+.c-p{
+    padding: 5px 65px;
+}
+
+.input-b{
+    background-color: black;
+    color: whitesmoke;
+}
+
+.margin-total{
+    margin-right: 70px;
+    
+}
+.total{
+    color:#ff4400d8;
+}
+
+.footer{
+    color: white;
+}
+
+#hori{
+    margin-top: 130px;
+}
